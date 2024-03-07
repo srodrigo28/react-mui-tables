@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nome": "daniela", "sexo": "feminino",  "idade": "12", "serie": "7B", "status": "aprovado"},
+    {"id": 2, "nome": "eduardo", "sexo": "masculino", "idade": "13", "serie": "7B", "status": "recuperar"},
+    {"id": 3, "nome": "alisson", "sexo": "masculino", "idade": "14", "serie": "7B", "status": "aprovado"}
+]

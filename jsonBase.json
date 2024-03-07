@@ -1,0 +1,25 @@
+{
+    "contas": [
+        { "id": 1, "descricao": "energia",   "valor": "R$ 200,00", "data": "20-01-2024", "status": "pago" },
+        { "id": 2, "descricao": "agua",      "valor": "R$ 250,00", "data": "25-01-2024", "status": "não pago" },
+        { "id": 3, "descricao": "internet",  "valor": "R$ 280,00", "data": "28-01-2024", "status": "pago" }
+    ],
+    "produtos":[
+        { "id": 1, "descricao": "Notebook Samsung i3", "valor": "R$ 2.500,00",      "data": "10-mar-2024" },
+        { "id": 2, "descricao": "Notebook Samsung i5", "valor": "R$ 3.200,00",      "data": "10-mar-2024" },
+        { "id": 3, "descricao": "Notebook Samsung i7", "valor": "R$ 5.200,00",      "data": "09-fer-2024" },
+        { "id": 4, "descricao": "Notebook Dell i5",    "valor": "R$ 5.400,00",      "data": "11-fer-2024" },
+        { "id": 5, "descricao": "Notebook Dell i7",    "valor": "R$ 7.200,00",      "data": "11-jan-2024" },
+        { "id": 1, "descricao": "Notebook Avell i3", "valor": "R$ 2.500,00",        "data": "11-jun-2024" },
+        { "id": 2, "descricao": "Notebook Avell i5", "valor": "R$ 3.200,00",        "data": "02-jun-2024" },
+        { "id": 3, "descricao": "Notebook Avell i7", "valor": "R$ 5.200,00",        "data": "02-set-2024" },
+        { "id": 4, "descricao": "Notebook Lenovo i5",    "valor": "R$ 5.400,00",    "data": "02-set-2024" },
+        { "id": 5, "descricao": "Notebook Lenovo i7",    "valor": "R$ 7.200,00",    "data": "07-set-2024" },
+        { "id": 1, "descricao": "Notebook Acer i3", "valor": "R$ 2.500,00",         "data": "07-jan-2024" },
+        { "id": 2, "descricao": "Notebook Acer i5", "valor": "R$ 3.200,00",         "data": "03-out-2024" },
+        { "id": 3, "descricao": "Notebook Acer i7", "valor": "R$ 5.200,00",         "data": "03-set-2024" },
+        { "id": 4, "descricao": "Notebook MSI i5",    "valor": "R$ 5.400,00",       "data": "10-set-2024" },
+        { "id": 5, "descricao": "Notebook MSI i7",    "valor": "R$ 7.200,00",       "data": "12-fer-2024" }
+    ]
+
+}

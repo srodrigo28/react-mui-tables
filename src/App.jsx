@@ -1,12 +1,12 @@
 import './App.css'
-import { TableMedium } from "./views/TableMedium"
+import { TableAxios } from "./views/TableAxios"
 
 function App() {
 
   return (
-    <>
-      <TableMedium />
-    </>
+    <div className='container'>
+      <TableAxios />
+    </div>
   )
 }
 
