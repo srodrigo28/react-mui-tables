@@ -12,7 +12,8 @@ export function TableAxios(){
     useEffect(() => {
         getData()
     }, [])
-
+    
+    // 3 - hooks
     const getData = async () => {
         await axios.get(url).then((response) => {
             const data = response.data
@@ -21,6 +22,7 @@ export function TableAxios(){
         })
     }
 
+    // 4 - hooks
     const columns = [
         { name: "id",        label: "id"},
         { name: "descricao", label: "Descricao" },
@@ -28,6 +30,7 @@ export function TableAxios(){
         { name: "data",      label: "Data" }
     ]
 
+    // 5 - hooks
     return(
         <>
             <MUIDataTable

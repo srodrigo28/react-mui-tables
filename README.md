@@ -7,6 +7,15 @@
 [] npm i mui-datatables --save
 [] npm --save install @mui/material @emotion/react @emotion/styled @mui/icons-material
 
+* rodar api
+```
+npm run api
+```
+* rodar aplicação
+```
+npm run dev
+```
+
 #### Referências
 https://mui.com/x/react-charts/pie/
 https://www.youtube.com/watch?v=fJRyC-xLIQc
